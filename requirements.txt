@@ -1,0 +1,6 @@
+numpy==2.2.6
+numpy-stl==3.2.0
+svgelements==1.9.6
+pygerber==2.4.3
+scipy==1.16.2
+drawsvg==2.4.0
